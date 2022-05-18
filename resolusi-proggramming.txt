@@ -1,3 +1,5 @@
 Resolusi Proggramming 
 -bisa HTML
 -bisa CSS
+-bisa javascript 
+-bisa membuat web antraktif sederhana
