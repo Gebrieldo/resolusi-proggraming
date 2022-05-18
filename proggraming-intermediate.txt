@@ -1,0 +1,5 @@
+Proggraming-intermediete 
+-oop
+-DOM
+-JSON
+-AJAX
